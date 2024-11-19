@@ -1,0 +1,14 @@
+.marcas{
+    display: flex;
+    background: rgb(58, 58, 58);
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.marcas img{
+    width: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
